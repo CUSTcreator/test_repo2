@@ -1,3 +1,4 @@
 first txt
 find diff not working
 quest what
+atest --cached cheking
